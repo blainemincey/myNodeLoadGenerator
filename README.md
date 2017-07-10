@@ -1,2 +1,8 @@
 # myNodeLoadGenerator
-Load generator for MongoDB in Node.js
+Simple Load Generator for MongoDB in Node.js
+
+After cloning the repo, 
+
+$npm install
+
+$node mongoLoadGenerator.js

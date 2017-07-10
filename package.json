@@ -1,0 +1,15 @@
+{
+  "name": "mynodeloadgenerator",
+  "version": "1.0.0",
+  "description": "Simple Load Generator",
+  "main": "mongoLoadGenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blaine Mincey",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.26",
+    "randomstring": "^1.1.5"
+  }
+}
